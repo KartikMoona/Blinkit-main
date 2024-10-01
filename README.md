@@ -31,7 +31,7 @@ This project involves creating interactive dashboards to analyze sales data over
 3. Tier 3: 32.18%
 
 
-#### Sanpshots:
+#### Snapshots:
  
 ![Screenshot 2024-07-30 125023](https://github.com/user-attachments/assets/de2eeea8-757f-4130-9126-94ac8cbb8d04)
 
